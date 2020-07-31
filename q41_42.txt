@@ -1,0 +1,5 @@
+41. What are the advantages of saving data in : (i) binary form (ii) text form?
+42. When do you think text files should be preferred over binary files?
+ binary form: Binary files are faster and easier for a program to read and write than are text files. As long as the file doesn't need to be read by people or need to be ported to a different type of system, binary files are the best way to store program information.
+ text form: Easily readable by anyone
+

@@ -1,0 +1,8 @@
+33. How are the following codes different from one another?
+(a) fp = open("file.txt", 'r')
+fp.read()
+(b) fp=open("file.txt", 'r')
+
+Answer: 
+(a) is opening the file as 'fp' and then calling the .read() method which then outputs the content of the txt file
+while (b) is only opening the file and not performing any operations
