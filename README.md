@@ -1,3 +1,1 @@
-"# filehandling" 
-"# filehandling" 
-# filehandling
+###filehandling hw 12C 
